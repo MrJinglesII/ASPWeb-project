@@ -1,0 +1,4 @@
+D:\VSCproject\project\project\wwwroot\js\site.js
+D:\VSCproject\project\project\wwwroot\css\site.css
+wwwroot\css\site.css
+wwwroot\js\site.js

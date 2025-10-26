@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="nav">
+            <div class="container">
+                <h1 class="logo">
+                    <a asp-area="" asp-controller="Home" asp-action="Index">My Website</a>
+                </h1>
+                <ul>
+                    <li><a asp-controller="Home" asp-action="Index">Домой</a></li>
+
+                    @if (User?.Identity != null && User.Identity.IsAuthenticated)
+                    {
+                        <li>
+                            <span>Привет, @User.Identity.Name!</span>
+                        </li>
+                        <li>
+                            <form asp-controller="Account" asp-action="Logout" method="post" style="display:inline;">
+                                <button type="submit" class="btn-link">Выйти</button>
+                            </form>
+                        </li>
+                    }
+                    else
+                    {
+                        <li><a asp-controller="Account" asp-action="Login">Вход</a></li>
+                        <li><a asp-controller="Account" asp-action="Register">Регистрация</a></li>
+                    }
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top custom-footer">
+        <div class="container">
+            &copy; MrJingles 2025 — Все права защищены
+        </div>
+    </footer>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

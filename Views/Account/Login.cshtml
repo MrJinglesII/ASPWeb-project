@@ -1,0 +1,31 @@
+﻿@model project.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Вход";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Login" method="post">
+    <div>
+        <label asp-for="UserName"></label>
+        <input asp-for="UserName" />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div>
+        <input asp-for="RememberMe" type="checkbox" />
+        <label asp-for="RememberMe"></label>
+    </div>
+
+    <button type="submit">Войти</button>
+</form>
+
+<p>
+    Нет аккаунта? <a asp-action="Register">Зарегистрироваться</a>
+</p>
