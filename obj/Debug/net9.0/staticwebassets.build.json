@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NSAzVwcQWgFRnrdDMxuGejuyqnhmC3G4RKmwZ0i3x7E=",
+  "Hash": "LTFU8KXWdycr/PUjCa0GHjjdpuh/J6yDFXYXTcTiZeo=",
   "Source": "project",
   "BasePath": "_content/project",
   "Mode": "Default",
@@ -1676,6 +1676,27 @@
       "OriginalItemSpec": "C:\\Users\\mrjin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+      "Identity": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\bkbqjkw7w4-ckjmf7qsfp.gz",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/project",
+      "RelativePath": "css/login#[.{fingerprint=ckjmf7qsfp}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\VSCproject\\project\\project\\wwwroot\\css\\login.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "spn4bn2ush",
+      "Integrity": "8Gc0es7BJDT9vRqmYdcUuf9/ReBg0zz/Ugu/14MXiXc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\VSCproject\\project\\project\\wwwroot\\css\\login.css"
+    },
+    {
       "Identity": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\bww8ud00yd-ausgxo2sd3.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -2243,12 +2264,12 @@
       "OriginalItemSpec": "C:\\Users\\mrjin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\rpw0p1z3iu-9t82gcatz0.gz",
+      "Identity": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\rpw0p1z3iu-cz54rciv99.gz",
       "SourceId": "project",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/project",
-      "RelativePath": "css/site#[.{fingerprint=9t82gcatz0}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=cz54rciv99}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2257,8 +2278,8 @@
       "RelatedAsset": "D:\\VSCproject\\project\\project\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1repzis8d3",
-      "Integrity": "7WGzcciyMoctqoeSECUOyhyM9IMq4hUjGLHqkV4vjBM=",
+      "Fingerprint": "y4lfh12fe5",
+      "Integrity": "PrIARqWS3cK570ErN61SEYeYpbFonBhz8LXBU6C9Bpo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\VSCproject\\project\\project\\wwwroot\\css\\site.css"
@@ -2684,6 +2705,27 @@
       "OriginalItemSpec": "C:\\Users\\mrjin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.10\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+      "Identity": "D:\\VSCproject\\project\\project\\wwwroot\\css\\login.css",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VSCproject\\project\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ckjmf7qsfp",
+      "Integrity": "dGjr6qMXbFjEVV9Wl1KGX6ki8rrMk4ItMDVLUM84fG4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
       "Identity": "D:\\VSCproject\\project\\project\\wwwroot\\css\\site.css",
       "SourceId": "project",
       "SourceType": "Discovered",
@@ -2698,8 +2740,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9t82gcatz0",
-      "Integrity": "HTmSkNvUMWxHlK4aAPKHqHcJZfJUJIIdqUlG5iNAKs8=",
+      "Fingerprint": "cz54rciv99",
+      "Integrity": "uH3jAXZfeQ7lyuBUafcCPqVJQSIXX6m55GLZVgnaKas=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2770,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.9t82gcatz0.css",
-      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\rpw0p1z3iu-9t82gcatz0.gz",
+      "Route": "css/login.ckjmf7qsfp.css",
+      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\bkbqjkw7w4-ckjmf7qsfp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002118644068"
+          "Quality": "0.006410256410"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2786,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "471"
+          "Value": "155"
         },
         {
           "Name": "ETag",
-          "Value": "\"7WGzcciyMoctqoeSECUOyhyM9IMq4hUjGLHqkV4vjBM=\""
+          "Value": "\"8Gc0es7BJDT9vRqmYdcUuf9/ReBg0zz/Ugu/14MXiXc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Oct 2025 07:50:49 GMT"
+          "Value": "Mon, 27 Oct 2025 18:48:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,26 +2814,316 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HTmSkNvUMWxHlK4aAPKHqHcJZfJUJIIdqUlG5iNAKs8=\""
+          "Value": "W/\"dGjr6qMXbFjEVV9Wl1KGX6ki8rrMk4ItMDVLUM84fG4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9t82gcatz0"
+          "Value": "ckjmf7qsfp"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "css/login.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HTmSkNvUMWxHlK4aAPKHqHcJZfJUJIIdqUlG5iNAKs8="
+          "Value": "sha256-dGjr6qMXbFjEVV9Wl1KGX6ki8rrMk4ItMDVLUM84fG4="
         }
       ]
     },
     {
-      "Route": "css/site.9t82gcatz0.css",
+      "Route": "css/login.ckjmf7qsfp.css",
+      "AssetFile": "D:\\VSCproject\\project\\project\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dGjr6qMXbFjEVV9Wl1KGX6ki8rrMk4ItMDVLUM84fG4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ckjmf7qsfp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dGjr6qMXbFjEVV9Wl1KGX6ki8rrMk4ItMDVLUM84fG4="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.ckjmf7qsfp.css.gz",
+      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\bkbqjkw7w4-ckjmf7qsfp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Gc0es7BJDT9vRqmYdcUuf9/ReBg0zz/Ugu/14MXiXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ckjmf7qsfp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Gc0es7BJDT9vRqmYdcUuf9/ReBg0zz/Ugu/14MXiXc="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\bkbqjkw7w4-ckjmf7qsfp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006410256410"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Gc0es7BJDT9vRqmYdcUuf9/ReBg0zz/Ugu/14MXiXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dGjr6qMXbFjEVV9Wl1KGX6ki8rrMk4ItMDVLUM84fG4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dGjr6qMXbFjEVV9Wl1KGX6ki8rrMk4ItMDVLUM84fG4="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "D:\\VSCproject\\project\\project\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dGjr6qMXbFjEVV9Wl1KGX6ki8rrMk4ItMDVLUM84fG4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dGjr6qMXbFjEVV9Wl1KGX6ki8rrMk4ItMDVLUM84fG4="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css.gz",
+      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\bkbqjkw7w4-ckjmf7qsfp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Gc0es7BJDT9vRqmYdcUuf9/ReBg0zz/Ugu/14MXiXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Gc0es7BJDT9vRqmYdcUuf9/ReBg0zz/Ugu/14MXiXc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\rpw0p1z3iu-cz54rciv99.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002127659574"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PrIARqWS3cK570ErN61SEYeYpbFonBhz8LXBU6C9Bpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:35:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uH3jAXZfeQ7lyuBUafcCPqVJQSIXX6m55GLZVgnaKas=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uH3jAXZfeQ7lyuBUafcCPqVJQSIXX6m55GLZVgnaKas="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
       "AssetFile": "D:\\VSCproject\\project\\project\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +3133,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1116"
+          "Value": "1216"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +3141,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HTmSkNvUMWxHlK4aAPKHqHcJZfJUJIIdqUlG5iNAKs8=\""
+          "Value": "\"uH3jAXZfeQ7lyuBUafcCPqVJQSIXX6m55GLZVgnaKas=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Oct 2025 07:50:49 GMT"
+          "Value": "Mon, 27 Oct 2025 18:35:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uH3jAXZfeQ7lyuBUafcCPqVJQSIXX6m55GLZVgnaKas="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\rpw0p1z3iu-cz54rciv99.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PrIARqWS3cK570ErN61SEYeYpbFonBhz8LXBU6C9Bpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:35:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PrIARqWS3cK570ErN61SEYeYpbFonBhz8LXBU6C9Bpo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.cz54rciv99.css",
+      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\rpw0p1z3iu-cz54rciv99.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002127659574"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PrIARqWS3cK570ErN61SEYeYpbFonBhz8LXBU6C9Bpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:35:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uH3jAXZfeQ7lyuBUafcCPqVJQSIXX6m55GLZVgnaKas=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cz54rciv99"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uH3jAXZfeQ7lyuBUafcCPqVJQSIXX6m55GLZVgnaKas="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.cz54rciv99.css",
+      "AssetFile": "D:\\VSCproject\\project\\project\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uH3jAXZfeQ7lyuBUafcCPqVJQSIXX6m55GLZVgnaKas=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 18:35:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +3300,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9t82gcatz0"
+          "Value": "cz54rciv99"
         },
         {
           "Name": "label",
@@ -2831,13 +3308,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HTmSkNvUMWxHlK4aAPKHqHcJZfJUJIIdqUlG5iNAKs8="
+          "Value": "sha256-uH3jAXZfeQ7lyuBUafcCPqVJQSIXX6m55GLZVgnaKas="
         }
       ]
     },
     {
-      "Route": "css/site.9t82gcatz0.css.gz",
-      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\rpw0p1z3iu-9t82gcatz0.gz",
+      "Route": "css/site.cz54rciv99.css.gz",
+      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\rpw0p1z3iu-cz54rciv99.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +3323,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "471"
+          "Value": "469"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +3331,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7WGzcciyMoctqoeSECUOyhyM9IMq4hUjGLHqkV4vjBM=\""
+          "Value": "\"PrIARqWS3cK570ErN61SEYeYpbFonBhz8LXBU6C9Bpo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Oct 2025 07:50:49 GMT"
+          "Value": "Mon, 27 Oct 2025 18:35:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3353,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9t82gcatz0"
+          "Value": "cz54rciv99"
         },
         {
           "Name": "label",
@@ -2884,144 +3361,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7WGzcciyMoctqoeSECUOyhyM9IMq4hUjGLHqkV4vjBM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\rpw0p1z3iu-9t82gcatz0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002118644068"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "471"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7WGzcciyMoctqoeSECUOyhyM9IMq4hUjGLHqkV4vjBM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Oct 2025 07:50:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"HTmSkNvUMWxHlK4aAPKHqHcJZfJUJIIdqUlG5iNAKs8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HTmSkNvUMWxHlK4aAPKHqHcJZfJUJIIdqUlG5iNAKs8="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\VSCproject\\project\\project\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1116"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HTmSkNvUMWxHlK4aAPKHqHcJZfJUJIIdqUlG5iNAKs8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Oct 2025 07:50:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HTmSkNvUMWxHlK4aAPKHqHcJZfJUJIIdqUlG5iNAKs8="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "D:\\VSCproject\\project\\project\\obj\\Debug\\net9.0\\compressed\\rpw0p1z3iu-9t82gcatz0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "471"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7WGzcciyMoctqoeSECUOyhyM9IMq4hUjGLHqkV4vjBM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Oct 2025 07:50:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-7WGzcciyMoctqoeSECUOyhyM9IMq4hUjGLHqkV4vjBM="
+          "Value": "sha256-PrIARqWS3cK570ErN61SEYeYpbFonBhz8LXBU6C9Bpo="
         }
       ]
     },

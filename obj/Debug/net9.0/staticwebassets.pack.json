@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "D:\\VSCproject\\project\\project\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "D:\\VSCproject\\project\\project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

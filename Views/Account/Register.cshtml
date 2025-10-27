@@ -3,30 +3,46 @@
     ViewData["Title"] = "Регистрация";
 }
 
+@section Styles {
+    <link rel="stylesheet" href="~/css/login.css" asp-append-version="true" />
+}
+
 <h2>@ViewData["Title"]</h2>
 
 <form asp-action="Register" method="post">
-    <div>
-        <label asp-for="UserName"></label>
-        <input asp-for="UserName" />
-        <span asp-validation-for="UserName" class="text-danger"></span>
-    </div>
-
-    <div>
-        <label asp-for="Password"></label>
-        <input asp-for="Password" type="password" />
-        <span asp-validation-for="Password" class="text-danger"></span>
-    </div>
-
-    <div>
-        <label asp-for="ConfirmPassword"></label>
-        <input asp-for="ConfirmPassword" type="password" />
-        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
-    </div>
+    <table>
+        <tr>
+            <th>
+                <label asp-for="UserName"></label>
+            </th>
+            <td>
+                <input asp-for="UserName" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="Password"></label>
+            </th>
+            <td>
+                <input asp-for="Password" type="password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </td>
+        </tr>
+        <tr>
+            <th>
+                <label asp-for="ConfirmPassword"></label>
+            </th>
+            <td>
+                <input asp-for="ConfirmPassword" type="password" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </td>
+        </tr>
+    </table>
 
     <button type="submit">Зарегистрироваться</button>
 </form>
 
 <p>
-    Уже есть аккаунт? <a asp-action="Login">Войти</a>
+    Уже есть аккаунт? <a asp-action="Login">Войти!</a>
 </p>

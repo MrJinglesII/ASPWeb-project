@@ -344,5 +344,6 @@ D:\VSCproject\project\project\obj\Debug\net9.0\refint\project.dll
 D:\VSCproject\project\project\obj\Debug\net9.0\project.pdb
 D:\VSCproject\project\project\obj\Debug\net9.0\project.genruntimeconfig.cache
 D:\VSCproject\project\project\obj\Debug\net9.0\ref\project.dll
-D:\VSCproject\project\project\obj\Debug\net9.0\compressed\rpw0p1z3iu-9t82gcatz0.gz
 D:\VSCproject\project\project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\VSCproject\project\project\obj\Debug\net9.0\compressed\rpw0p1z3iu-cz54rciv99.gz
+D:\VSCproject\project\project\obj\Debug\net9.0\compressed\bkbqjkw7w4-ckjmf7qsfp.gz

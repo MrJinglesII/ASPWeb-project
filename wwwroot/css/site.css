@@ -26,7 +26,6 @@ body {
     top: 0;
     left: 0;
     right: 0;
-    transition: all 0.3s ease-in-out;
 }
 
 .nav .container {
@@ -34,7 +33,6 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px 0;
-  transition: all 0.3s ease-in-out;
 }
 
 .nav ul {
@@ -52,7 +50,6 @@ body {
   color: #fff;
   text-decoration: none;
   padding: 7px 15px;
-  transition: all 0.3s ease-in-out;
 }
 
 table {
@@ -70,5 +67,18 @@ table th, table td {
 table th {
     background-color: #4CAF50;
     color: white;
+}
+
+.custom-footer {
+    background-color: #222;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.custom-footer .container {
+  color: #fff;
+  text-decoration: none;
+  padding: 7px 15px;
+  text-align: center;
 }
 

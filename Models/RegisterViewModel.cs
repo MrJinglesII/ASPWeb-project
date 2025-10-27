@@ -10,10 +10,12 @@ namespace project.Models
 
         [Required]
         [DataType(DataType.Password)]
+        [Display(Name = "Пароль")]
         public string Password { get; set; }
 
         [DataType(DataType.Password)]
         [Compare("Password", ErrorMessage = "Пароли не совпадают")]
+        [Display(Name ="Повторить пароль")]
         public string ConfirmPassword { get; set; }
     }
 }
